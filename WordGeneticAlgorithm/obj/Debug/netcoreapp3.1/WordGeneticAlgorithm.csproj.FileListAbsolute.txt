@@ -1,0 +1,11 @@
+C:\Users\Marcin\source\repos\SimpleGeneticAlgorithm\WordGeneticAlgorithm\bin\Debug\netcoreapp3.1\WordGeneticAlgorithm.exe
+C:\Users\Marcin\source\repos\SimpleGeneticAlgorithm\WordGeneticAlgorithm\bin\Debug\netcoreapp3.1\WordGeneticAlgorithm.deps.json
+C:\Users\Marcin\source\repos\SimpleGeneticAlgorithm\WordGeneticAlgorithm\bin\Debug\netcoreapp3.1\WordGeneticAlgorithm.runtimeconfig.json
+C:\Users\Marcin\source\repos\SimpleGeneticAlgorithm\WordGeneticAlgorithm\bin\Debug\netcoreapp3.1\WordGeneticAlgorithm.runtimeconfig.dev.json
+C:\Users\Marcin\source\repos\SimpleGeneticAlgorithm\WordGeneticAlgorithm\bin\Debug\netcoreapp3.1\WordGeneticAlgorithm.dll
+C:\Users\Marcin\source\repos\SimpleGeneticAlgorithm\WordGeneticAlgorithm\bin\Debug\netcoreapp3.1\WordGeneticAlgorithm.pdb
+C:\Users\Marcin\source\repos\SimpleGeneticAlgorithm\WordGeneticAlgorithm\obj\Debug\netcoreapp3.1\WordGeneticAlgorithm.csprojAssemblyReference.cache
+C:\Users\Marcin\source\repos\SimpleGeneticAlgorithm\WordGeneticAlgorithm\obj\Debug\netcoreapp3.1\WordGeneticAlgorithm.AssemblyInfoInputs.cache
+C:\Users\Marcin\source\repos\SimpleGeneticAlgorithm\WordGeneticAlgorithm\obj\Debug\netcoreapp3.1\WordGeneticAlgorithm.AssemblyInfo.cs
+C:\Users\Marcin\source\repos\SimpleGeneticAlgorithm\WordGeneticAlgorithm\obj\Debug\netcoreapp3.1\WordGeneticAlgorithm.dll
+C:\Users\Marcin\source\repos\SimpleGeneticAlgorithm\WordGeneticAlgorithm\obj\Debug\netcoreapp3.1\WordGeneticAlgorithm.pdb
