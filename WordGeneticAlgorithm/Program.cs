@@ -48,7 +48,7 @@ namespace WordGeneticAlgorithm
                     child.genes[i] = parent1.genes[i];
                 }
 
-                else if (los < 90)
+                else if (los < 97)
                 {
                     child.genes[i] = parent2.genes[i];
                 }
